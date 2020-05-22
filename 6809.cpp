@@ -10,7 +10,7 @@ int main()
     
     while( t--)
     {
-
+        printf("Still couldn't solve");
     }
 
 }
